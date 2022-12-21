@@ -1,0 +1,14 @@
+.img{
+    background-color: blueviolet;
+}
+.Text{
+    color: rgb(255, 255, 255);
+    padding: 30px;
+}
+.Map{
+    float: right;
+}
+.Bottom{
+    padding: 30px;
+    float: left;
+}

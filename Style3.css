@@ -1,0 +1,16 @@
+.img{
+    background-color: blueviolet;
+}
+.Text{
+    color: rgb(255, 255, 255);
+    padding: 30px;
+}
+table{
+    border: solid;
+    border-collapse: collapse;
+    width: 90%;
+    margin-left: 5%;
+}
+table,th,td{
+    border: solid 1px;
+}
